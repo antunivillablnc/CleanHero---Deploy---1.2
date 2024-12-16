@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "DATABASE_URL": "postgresql://clean-hero1_owner:AkfyUi8roG6c@ep-aged-fire-a1u713lm.ap-southeast-1.aws.neon.tech/clean-hero1?sslmode=require", 
+    "WEB3_AUTH_CLIENT_ID": "BMPt0qiS24GgzyqXV4j100OBw5vxfmPoBPMbYNyBJfTfy2BYUl-wq6UsSOaXfyeB7ZmfZpJj6A5tMScqPo3pkFg",
+    "GEMINI_API_KEY": "AIzaSyCJziaB-X5trZRREVa9t5ZPu8ONl1w8ZTg",
+    "NEXT_PUBLIC_GEMINI_API_KEY": "AIzaSyCJziaB-X5trZRREVa9t5ZPu8ONl1w8ZTg",
+    "GOOGLE_MAPS_API_KEY": "AIzaSyAO2vCIJFE9J0ZPRDEtVTlJwbFyNd16AI"
+  }
+}
